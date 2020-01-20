@@ -2,6 +2,4 @@
 
 This is a good website
 
-Edit on update-readme
-
-Updated locally, then remotely
+Updates made on master on GitHub before Rebase
